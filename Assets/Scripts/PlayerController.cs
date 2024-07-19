@@ -33,7 +33,6 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
 		// movement
 	   Vector3 move = new Vector3(Input.acceleration.x, 0, Input.acceleration.z);
 		if (move.magnitude > 0.2f)
