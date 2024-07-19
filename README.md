@@ -9,8 +9,11 @@
 > ## 日誌
 > 2024.7.18 
 > 加速度感應器不光是能感受到行動裝置本身移動時的加速度，並且同時會受到重力影響。為了得到單純的移動加速度時，使用不熟悉的四元數計算時，花了點時間。
+>
+> 
 > 2024.7.19
 > 雖然加速度感應器能感應到手機的加速度變化，但是精準度有待加強，無法準確模擬出手機在現實空間中的移動，因此將停止嘗試，改使用AR Foundation
+> 
 > 
 > ##  其他
 > 無
@@ -33,8 +36,11 @@
 > ## Log
 > 2024.7.18
 > The accelerometer not only detects the device's movement but is also affected by gravity. To obtain pure movement acceleration, I had to spend some time using unfamiliar quaternion calculations.
+>
+> 
 > 2024.7.19
 > Although the accelerometer can sense changes in the phone's acceleration, its accuracy needs improvement. It cannot accurately simulate the phone's movement in real-world space. Therefore, attempts will be stopped and AR Foundation will be used instead.
+> 
 > 
 > ## Additional Information
 > None
