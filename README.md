@@ -12,7 +12,7 @@
 >
 > 
 > 2024.7.19  
-> 雖然加速度感應器能感應到手機的加速度變化，但是精準度有待加強，無法準確模擬出手機在現實空間中的移動，因此將停止嘗試，改使用AR Foundation
+> 雖然加速度感應器能感應到手機本身的加速度變化，但是當手機被搖晃時，雖然手機沒有位移，但是加速度感應器仍然會得到感應器本身的位移距離，因此無法用加速度感應器來表示手機本身的加速度，也因此無法準確模擬出手機在現實空間中的移動，因此停止嘗試，改使用AR Foundation來做空間定位。
 > 
 > 
 > ##  其他
@@ -39,7 +39,7 @@
 >
 > 
 > 2024.7.19  
-> Although the accelerometer can sense changes in the phone's acceleration, its accuracy needs improvement. It cannot accurately simulate the phone's movement in real-world space. Therefore, attempts will be stopped and AR Foundation will be used instead.
+>Although the accelerometer can sense the phone's acceleration changes, when the phone is shaken, the accelerometer detects the movement of the sensor itself even though the phone has not displaced. Therefore, the accelerometer cannot accurately represent the phone's actual acceleration, making it impossible to precisely simulate the phone's movement in real space. As a result, we stopped using the accelerometer and switched to AR Foundation for spatial positioning.
 > 
 > 
 > ## Additional Information
