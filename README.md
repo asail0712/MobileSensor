@@ -23,16 +23,13 @@ Unity 2022.3.23f1 或更高版本。
 ### 功能
 無明確的應用功能。
 
-# 5.貢獻指南
+# 5.其他
 無
 
-# 6.許可證
-無
-
-# 7.聯繫方式和鳴謝
+# 6.聯繫方式和鳴謝
 Email: asail0712@gmail.com
 
-# 8. 附加資源
+# 7. 附加資源
 ### 參考資料
 - [Unity - how to make a player controller with gyroscope and accelerometer](https://www.youtube.com/watch?v=jvwX5WthM2o)
 - [Unity Gyroscope tutorial | use phones Gyroscope as Input](https://www.youtube.com/watch?v=V_fJnhw8p3g)
