@@ -34,5 +34,5 @@ Email: asail0712@gmail.com
 
 # 8. 附加資源
 ### 參考資料
-> 1. [Unity - how to make a player controller with gyroscope and accelerometer](https://www.youtube.com/watch?v=jvwX5WthM2o)
-> 2. [Unity Gyroscope tutorial | use phones Gyroscope as Input](https://www.youtube.com/watch?v=V_fJnhw8p3g)
+- [Unity - how to make a player controller with gyroscope and accelerometer](https://www.youtube.com/watch?v=jvwX5WthM2o)
+- [Unity Gyroscope tutorial | use phones Gyroscope as Input](https://www.youtube.com/watch?v=V_fJnhw8p3g)
